@@ -1,0 +1,22 @@
+{
+  "route": {
+    "rules": [
+      {
+        "rule_set": [
+          "ai"
+        ],
+        "outbound": "az"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "ai",
+        "format": "source",
+        "url": "https://raw.githubusercontent.com/martinzu/ProxyRules/main/sing-box/AI.json",
+        "update_interval": "1d"
+      }
+    ],
+    "final": "hk"
+  }
+}

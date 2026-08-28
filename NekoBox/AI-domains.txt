@@ -1,0 +1,90 @@
+# NekoBox / NekoRay domain syntax
+# Shadowrocket DOMAIN        -> full:
+# Shadowrocket DOMAIN-SUFFIX -> domain:
+# Shadowrocket DOMAIN-KEYWORD -> keyword:
+
+# ChatGPT / OpenAI
+domain:chat.com
+domain:chatgpt.com
+domain:livekit.cloud
+domain:oaistatic.com
+domain:oaiusercontent.com
+domain:openai.com
+domain:sora.com
+full:api.statsig.com
+full:api-iam.intercom.io
+full:o33249.ingest.sentry.io
+full:openaiapi-site.azureedge.net
+keyword:openaiapi
+keyword:openaicom
+
+# Apple Intelligence
+domain:smoot.apple.com
+full:apple-relay.apple.com
+full:apple-relay.cloudflare.com
+full:apple-relay.fastly-edge.com
+full:cp4.cloudflare.com
+full:gspe1-ssl.ls.apple.com
+full:guzzoni.apple.com
+
+# Claude
+domain:claude.ai
+domain:anthropic.com
+
+# Microsoft Copilot
+full:copilot.microsoft.com
+full:sydney.bing.com
+full:www.bing.com
+
+# GitHub Copilot
+domain:githubcopilot.com
+
+# Google AI Studio
+domain:generativeai.google
+domain:makersuite.google.com
+full:aistudio.google.com
+full:alkalicore-pa.clients6.google.com
+full:alkalimakersuite-pa.clients6.google.com
+
+# Google Antigravity
+full:antigravity.google
+full:antigravity-unleash.goog
+
+# Google DeepMind
+domain:deepmind.com
+domain:deepmind.google
+
+# Google Gemini
+domain:gemini.google
+domain:gemini.google.com
+domain:generativeai.google
+full:ai.google.dev
+full:bard.google.com
+full:generativelanguage.googleapis.com
+full:geller-pa.googleapis.com
+full:proactivebackend-pa.googleapis.com
+full:aisandbox-pa.googleapis.com
+full:robinfrontend-pa.googleapis.com
+full:signaler-pa.googleapis.com
+full:jnn-pa.googleapis.com
+full:aida.googleapis.com
+full:www.googleapis.com
+full:www.google.com
+full:play.googleapis.com
+full:android.clients.google.com
+
+# NotebookLM / Search Labs
+keyword:notebooklm.google
+keyword:labs.google
+
+# Grok
+domain:grok.com
+domain:x.ai
+
+# OpenRouter
+domain:openrouter.ai
+
+# Perplexity
+domain:perplexity.ai
+domain:pplx.ai
+full:pplx-res.cloudinary.com
